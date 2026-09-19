@@ -1,6 +1,7 @@
 # EX 2D Pattern Matching using Naive Approach.
 
 ### Developed By: AMIRTHAVARSHINI.R.D
+## DATE: 05/08/26
 
 ### Register Number: 212223040013
 
