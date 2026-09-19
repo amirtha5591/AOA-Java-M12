@@ -1,6 +1,7 @@
 # EX 2C Job Sequencing using Greedy Approach
 
 ### Developed By: AMIRTHAVARSHINI.R.D
+## DATE: 05/08/26
 
 ### Register Number: 212223040013
 
